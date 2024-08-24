@@ -1,0 +1,10 @@
+autoscan: warning: missing AC_CHECK_FUNCS([regcomp]) wanted by: 
+	glfw-3.2.1/src/linux_joystick.c:205
+autoscan: warning: missing AC_CHECK_FUNCS([strcspn]) wanted by: 
+	glfw-3.2.1/deps/getopt.c:178
+autoscan: warning: missing AC_CHECK_HEADERS([mach/mach.h]) wanted by: 
+	glfw-3.2.1/src/cocoa_joystick.m:34
+autoscan: warning: missing AC_CHECK_HEADERS([sys/timeb.h]) wanted by: 
+	glfw-3.2.1/deps/tinycthread.c:42
+autoscan: warning: missing AC_PROG_RANLIB wanted by: 
+	ltmain.sh:4021
